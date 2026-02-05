@@ -1,1 +1,11 @@
-# cadq_models
+#+TITLE: 3D Cadquery Models
+
+* simcard-box.py
+#+begin_quote
+Two micro simcards holder with slot for sim card extractor.
+
+I have to use multiple SIM cards when I travel.
+They're small, and I often lose them, or I lose the extractor.
+This project allows me to keep everything together.
+#+end_quote
+
