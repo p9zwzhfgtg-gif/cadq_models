@@ -1,6 +1,9 @@
 #+TITLE: 3D Cadquery Models
 
-* simcard-box.py
+* simcard-box.py :ATTACH:
+:PROPERTIES:
+:ID:       574001CD-B78B-43CA-8A21-FB69525C4071
+:END:
 #+begin_quote
 Two micro simcards holder with slot for sim card extractor.
 
@@ -9,3 +12,8 @@ They're small, and I often lose them, or I lose the extractor.
 This project allows me to keep everything together.
 #+end_quote
 
+[[attachment:simcard-box closed.png]]
+
+[[attachment: simcard-box plate and lid.png]] 
+
+[[attachment:simcard-box_photo.jpg]]
